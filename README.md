@@ -1,4 +1,4 @@
-# Smart Expense Analytics
+# Financial Expense Analytics
 
 An end-to-end financial expense analysis project built using Python, Pandas, Matplotlib, and Power BI.
 
