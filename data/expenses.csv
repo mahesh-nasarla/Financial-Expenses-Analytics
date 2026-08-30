@@ -1,0 +1,501 @@
+Date,Category,Amount,Description
+2025-07-12,Bills,449.64,Water
+2025-10-14,Entertainment,8005.14,OTT
+2025-02-26,Food,2962.11,Coffee
+2025-08-08,Travel,3353.08,Train
+2025-09-24,Food,5324.19,Breakfast
+2026-05-04,Investment,1734.0,Savings
+2025-10-26,Travel,6407.48,Train
+2026-07-03,Food,9968.24,Snacks
+2026-01-19,Healthcare,3579.95,Doctor
+2026-05-10,Shopping,3582.74,Gift
+2026-05-31,Investment,4325.64,SIP
+2026-03-02,Food,3513.21,Snacks
+2025-11-06,Investment,1358.61,SIP
+2026-04-08,Bills,1230.12,Electricity
+2026-01-20,Bills,5480.34,Gas
+2025-10-06,Rent,2394.08,House Rent
+2025-11-10,Travel,6589.44,Metro
+2025-09-10,Entertainment,8028.55,OTT
+2026-04-04,Healthcare,9254.15,Pharmacy
+2025-06-04,Bills,8986.6,Internet
+2025-06-28,Food,7359.21,Coffee
+2025-10-07,Education,899.95,Course
+2026-07-30,Investment,8354.83,SIP
+2025-12-16,Education,8979.28,Books
+2026-06-18,Groceries,9617.14,Milk
+2025-09-11,Bills,7122.46,Gas
+2026-01-13,Entertainment,3828.15,Concert
+2025-12-18,Shopping,4763.43,Shoes
+2025-12-26,Groceries,5306.37,Vegetables
+2025-09-12,Groceries,1493.95,Vegetables
+2025-04-25,Groceries,8197.15,Fruits
+2025-10-25,Groceries,4617.47,Vegetables
+2026-01-25,Bills,1323.5,Mobile
+2025-01-26,Travel,1050.6,Fuel
+2025-07-09,Healthcare,6460.06,Pharmacy
+2026-05-13,Education,3713.32,Course
+2025-04-24,Bills,4973.39,Gas
+2026-04-18,Travel,9248.19,Bus
+2025-06-20,Travel,8807.07,Bus
+2026-04-11,Entertainment,2755.72,Concert
+2026-07-06,Investment,3524.59,Mutual Fund
+2026-06-08,Healthcare,5582.67,Doctor
+2025-07-30,Groceries,4792.8,Fruits
+2026-03-28,Investment,329.71,SIP
+2025-01-08,Entertainment,9800.76,Games
+2026-03-12,Entertainment,6523.74,Games
+2026-01-29,Healthcare,2008.04,Pharmacy
+2025-11-30,Entertainment,4592.13,Concert
+2025-09-18,Shopping,9015.74,Electronics
+2025-02-16,Shopping,1041.69,Electronics
+2025-01-15,Travel,3741.53,Fuel
+2025-12-26,Entertainment,2124.36,OTT
+2025-10-05,Food,6433.04,Snacks
+2025-08-20,Healthcare,9414.21,Medicine
+2025-11-28,Investment,9992.63,Mutual Fund
+2025-04-06,Groceries,2347.9,Vegetables
+2026-01-30,Bills,5001.76,Water
+2025-02-06,Travel,1288.98,Train
+2026-05-04,Entertainment,1882.46,Concert
+2025-10-26,Education,136.34,Books
+2025-07-05,Rent,3009.63,House Rent
+2025-05-12,Shopping,8563.98,Clothes
+2025-09-24,Shopping,7761.31,Accessories
+2025-02-17,Bills,1658.3,Water
+2025-09-06,Healthcare,7262.48,Doctor
+2026-04-20,Travel,5395.29,Train
+2025-06-12,Travel,8243.15,Train
+2025-12-18,Travel,1703.27,Bus
+2026-03-07,Food,8830.86,Lunch
+2025-08-05,Rent,5008.77,House Rent
+2026-07-19,Investment,8061.59,Savings
+2025-01-08,Healthcare,5451.64,Pharmacy
+2026-05-19,Groceries,8886.9,Vegetables
+2025-06-24,Rent,6165.18,House Rent
+2025-10-01,Bills,2494.96,Gas
+2025-09-20,Food,2131.56,Coffee
+2026-04-17,Investment,823.58,SIP
+2026-02-27,Shopping,1963.59,Electronics
+2026-06-23,Shopping,2154.31,Gift
+2026-07-30,Education,6039.26,Stationery
+2025-02-09,Entertainment,2462.35,OTT
+2026-07-18,Healthcare,5311.87,Pharmacy
+2025-04-21,Bills,2043.33,Water
+2026-07-24,Rent,5396.2,House Rent
+2025-01-20,Investment,5999.7,Stocks
+2025-10-15,Groceries,7883.29,Fruits
+2025-06-16,Investment,4726.82,Mutual Fund
+2025-01-18,Groceries,3268.99,Vegetables
+2025-09-15,Healthcare,228.54,Lab Test
+2026-02-17,Bills,8636.31,Water
+2025-06-17,Healthcare,7415.03,Medicine
+2025-11-09,Shopping,5425.48,Shoes
+2025-11-06,Groceries,4720.13,Milk
+2026-01-03,Shopping,2134.56,Electronics
+2025-01-19,Food,1507.63,Breakfast
+2025-08-10,Education,784.71,Exam Fee
+2025-01-07,Bills,3130.67,Internet
+2025-09-12,Shopping,5456.7,Accessories
+2025-08-26,Education,8153.23,Exam Fee
+2025-08-17,Rent,240.41,House Rent
+2025-08-20,Entertainment,4978.58,Concert
+2026-04-30,Shopping,4873.33,Clothes
+2025-08-28,Entertainment,1185.51,Movie
+2025-12-31,Food,256.74,Coffee
+2025-11-23,Entertainment,2627.69,Movie
+2025-12-02,Healthcare,9812.18,Lab Test
+2026-04-19,Rent,6690.1,House Rent
+2026-05-30,Investment,6795.87,Mutual Fund
+2025-09-19,Bills,6990.88,Internet
+2025-02-25,Rent,139.38,House Rent
+2026-07-08,Travel,8205.81,Train
+2025-08-17,Travel,4772.92,Bus
+2026-03-19,Food,7121.25,Snacks
+2025-02-01,Shopping,53.44,Shoes
+2026-03-29,Groceries,2710.7,Fruits
+2026-03-02,Rent,8203.35,House Rent
+2025-05-24,Bills,4873.08,Gas
+2025-07-30,Investment,4311.4,Stocks
+2025-05-01,Food,8118.37,Lunch
+2025-09-28,Bills,7268.75,Electricity
+2025-07-26,Travel,6743.5,Fuel
+2025-05-14,Shopping,8270.91,Gift
+2025-09-22,Groceries,7520.47,Vegetables
+2025-06-23,Healthcare,7960.29,Doctor
+2026-05-02,Shopping,5865.13,Electronics
+2025-01-16,Bills,2639.77,Mobile
+2026-03-06,Travel,6551.14,Taxi
+2025-09-02,Bills,556.78,Mobile
+2025-02-27,Investment,9903.35,Savings
+2026-04-20,Healthcare,9643.95,Lab Test
+2025-05-26,Groceries,1516.89,Vegetables
+2025-11-10,Travel,6217.39,Train
+2025-05-17,Shopping,1513.31,Accessories
+2026-02-02,Entertainment,6113.61,Concert
+2025-06-06,Travel,2887.87,Metro
+2025-10-07,Healthcare,6002.48,Lab Test
+2025-05-01,Travel,8217.94,Train
+2025-08-15,Shopping,5380.71,Electronics
+2025-01-20,Shopping,873.31,Accessories
+2025-05-11,Investment,4870.57,Mutual Fund
+2025-02-17,Healthcare,2434.52,Pharmacy
+2025-01-27,Education,8130.15,Course
+2026-01-20,Shopping,9812.69,Clothes
+2025-02-19,Shopping,7299.53,Shoes
+2025-10-09,Travel,6215.1,Metro
+2026-06-17,Education,3972.56,Exam Fee
+2026-02-26,Healthcare,1697.67,Lab Test
+2026-07-25,Investment,1940.64,Savings
+2026-04-18,Shopping,8710.35,Shoes
+2025-10-27,Travel,2572.03,Train
+2025-03-31,Rent,5702.62,House Rent
+2025-04-04,Entertainment,8623.65,Concert
+2025-06-24,Shopping,4641.47,Electronics
+2025-06-11,Investment,1848.94,Savings
+2026-03-22,Rent,3371.3,House Rent
+2025-05-27,Entertainment,7657.65,OTT
+2025-09-18,Bills,9544.62,Electricity
+2025-10-02,Bills,6161.89,Internet
+2026-05-11,Education,5408.49,Course
+2025-09-25,Food,6679.71,Breakfast
+2025-06-29,Investment,3763.29,SIP
+2026-01-16,Entertainment,522.15,Concert
+2025-09-02,Bills,4304.28,Internet
+2025-05-14,Food,3189.98,Coffee
+2025-01-01,Investment,762.44,Savings
+2026-01-13,Groceries,8599.8,Fruits
+2025-10-05,Healthcare,9185.29,Lab Test
+2026-02-08,Bills,3402.81,Mobile
+2025-04-18,Food,8252.97,Lunch
+2025-10-04,Shopping,7747.74,Electronics
+2026-02-02,Education,459.86,Stationery
+2025-05-19,Food,7050.47,Coffee
+2026-05-26,Healthcare,640.05,Medicine
+2025-02-13,Groceries,5741.94,Supermarket
+2025-04-29,Food,3538.53,Lunch
+2025-12-20,Travel,1484.97,Fuel
+2025-09-17,Groceries,8038.71,Vegetables
+2025-10-27,Shopping,2089.39,Shoes
+2026-04-26,Bills,3485.32,Gas
+2026-01-05,Education,3342.42,Stationery
+2025-10-06,Rent,3081.15,House Rent
+2025-11-02,Entertainment,3434.16,Movie
+2025-10-26,Shopping,6687.75,Shoes
+2026-01-23,Bills,8605.49,Electricity
+2026-04-22,Food,1097.06,Snacks
+2026-07-02,Food,121.07,Snacks
+2026-07-25,Food,9553.39,Breakfast
+2025-05-05,Groceries,8214.14,Vegetables
+2025-09-09,Healthcare,7694.15,Medicine
+2025-10-06,Shopping,376.51,Shoes
+2025-05-15,Investment,6273.85,Savings
+2025-11-01,Healthcare,6581.26,Pharmacy
+2025-06-29,Shopping,4458.55,Shoes
+2025-07-04,Entertainment,8368.53,OTT
+2025-10-04,Travel,8052.02,Fuel
+2025-12-20,Shopping,1408.25,Electronics
+2025-03-06,Groceries,4166.55,Supermarket
+2025-07-02,Bills,1418.05,Internet
+2025-11-25,Bills,5636.77,Water
+2026-04-26,Healthcare,8222.5,Doctor
+2025-08-21,Food,8605.69,Dinner
+2025-04-05,Bills,6452.46,Gas
+2026-03-12,Shopping,2959.8,Electronics
+2026-04-06,Rent,6951.7,House Rent
+2025-09-26,Investment,5540.79,Stocks
+2025-01-21,Education,838.79,Books
+2026-03-28,Shopping,3181.34,Electronics
+2026-07-20,Food,7800.55,Dinner
+2025-10-07,Groceries,979.98,Milk
+2026-05-12,Groceries,6394.77,Fruits
+2025-08-16,Education,2636.99,Exam Fee
+2025-06-25,Shopping,4565.94,Shoes
+2025-05-15,Rent,8532.26,House Rent
+2025-01-20,Rent,8509.84,House Rent
+2025-05-31,Healthcare,5859.81,Medicine
+2026-02-06,Shopping,1395.61,Shoes
+2025-04-28,Travel,1744.51,Fuel
+2026-03-16,Travel,67.23,Fuel
+2026-04-21,Healthcare,7931.21,Medicine
+2026-07-17,Education,5226.36,Stationery
+2025-09-11,Rent,1979.29,House Rent
+2025-09-06,Rent,4097.1,House Rent
+2025-11-03,Entertainment,9170.56,OTT
+2025-07-31,Rent,6049.16,House Rent
+2026-05-23,Education,4711.38,Course
+2025-12-03,Food,6550.36,Breakfast
+2025-11-25,Investment,5284.98,Stocks
+2025-09-28,Shopping,6732.47,Accessories
+2025-04-29,Entertainment,5635.72,Games
+2025-12-30,Travel,2983.95,Train
+2025-04-04,Education,1103.13,Exam Fee
+2025-10-19,Rent,3840.38,House Rent
+2025-12-22,Food,2331.6,Breakfast
+2025-04-14,Food,6532.27,Breakfast
+2026-07-19,Entertainment,1324.51,Concert
+2026-01-21,Healthcare,1141.49,Pharmacy
+2025-05-08,Travel,8657.45,Fuel
+2025-09-24,Rent,1904.82,House Rent
+2026-06-25,Healthcare,4466.9,Lab Test
+2026-04-19,Entertainment,6101.34,Concert
+2025-07-07,Bills,3679.92,Electricity
+2025-07-22,Education,6933.72,Course
+2025-03-17,Rent,4436.68,House Rent
+2025-02-21,Bills,8865.15,Internet
+2025-02-27,Investment,3576.14,SIP
+2025-01-07,Bills,2686.42,Internet
+2026-01-10,Bills,194.34,Gas
+2025-12-08,Rent,3898.42,House Rent
+2025-02-27,Healthcare,1486.87,Lab Test
+2025-06-17,Rent,9906.73,House Rent
+2026-05-09,Bills,8660.11,Internet
+2026-02-03,Shopping,5294.78,Accessories
+2025-04-01,Food,7940.55,Lunch
+2026-01-09,Bills,146.52,Water
+2026-05-08,Investment,7345.57,Stocks
+2025-08-07,Rent,1340.76,House Rent
+2025-11-18,Food,6500.47,Coffee
+2026-02-18,Shopping,9385.0,Clothes
+2025-04-08,Rent,845.81,House Rent
+2026-02-26,Entertainment,3778.09,OTT
+2025-07-09,Investment,8477.16,Savings
+2025-05-09,Rent,9399.53,House Rent
+2025-05-25,Shopping,7859.25,Accessories
+2026-02-03,Groceries,3211.91,Fruits
+2025-09-26,Bills,5837.4,Mobile
+2026-07-12,Entertainment,9498.87,Concert
+2026-04-30,Education,5058.25,Stationery
+2025-12-18,Groceries,6604.95,Fruits
+2025-08-18,Bills,929.29,Mobile
+2025-12-08,Shopping,7979.05,Electronics
+2025-02-06,Rent,2195.69,House Rent
+2025-04-20,Investment,295.36,Mutual Fund
+2026-05-03,Entertainment,3550.23,Games
+2025-09-24,Bills,2871.29,Mobile
+2025-04-02,Shopping,2937.38,Accessories
+2025-10-30,Education,4534.41,Stationery
+2025-01-20,Investment,7281.87,Savings
+2025-06-01,Shopping,4997.46,Accessories
+2026-04-25,Healthcare,659.58,Doctor
+2026-06-12,Rent,2226.97,House Rent
+2026-04-11,Rent,8706.91,House Rent
+2026-04-11,Food,7998.19,Lunch
+2025-09-05,Entertainment,748.69,OTT
+2026-02-20,Entertainment,6132.57,OTT
+2025-01-23,Groceries,7328.05,Supermarket
+2025-09-30,Food,1330.9,Lunch
+2025-05-07,Groceries,705.11,Fruits
+2025-06-19,Education,3043.45,Books
+2025-11-10,Travel,8647.16,Taxi
+2025-02-25,Entertainment,3965.16,Games
+2025-11-16,Rent,9869.82,House Rent
+2025-06-07,Entertainment,6112.15,Concert
+2025-10-14,Food,220.48,Dinner
+2026-04-28,Bills,8178.73,Mobile
+2025-11-28,Healthcare,3326.08,Lab Test
+2026-03-01,Entertainment,6008.05,Movie
+2025-04-03,Investment,7939.54,Savings
+2025-07-04,Food,4170.45,Dinner
+2025-10-31,Food,9728.76,Snacks
+2025-11-30,Investment,127.75,SIP
+2025-11-13,Education,9894.05,Course
+2025-09-23,Healthcare,9333.8,Lab Test
+2025-08-05,Healthcare,5061.01,Pharmacy
+2025-06-07,Shopping,2688.04,Clothes
+2025-02-17,Investment,9319.18,Savings
+2025-07-16,Rent,1404.34,House Rent
+2025-10-05,Education,3443.44,Course
+2025-10-23,Shopping,1641.29,Gift
+2025-08-26,Healthcare,1689.01,Pharmacy
+2026-03-05,Bills,5258.33,Water
+2025-03-11,Groceries,4808.29,Vegetables
+2025-06-11,Groceries,4686.77,Milk
+2025-04-20,Healthcare,5517.36,Medicine
+2025-03-15,Groceries,4290.61,Vegetables
+2026-06-22,Education,7096.39,Books
+2025-10-21,Healthcare,8531.67,Medicine
+2025-04-23,Investment,274.63,Savings
+2026-01-19,Education,7950.13,Books
+2025-05-13,Investment,1091.18,Savings
+2025-06-01,Investment,8149.6,Savings
+2025-12-26,Groceries,5796.81,Milk
+2025-09-21,Healthcare,9296.92,Lab Test
+2025-01-22,Travel,5022.53,Train
+2025-03-18,Travel,4925.43,Taxi
+2025-06-13,Healthcare,7621.84,Medicine
+2026-07-20,Entertainment,7127.25,Movie
+2025-09-25,Shopping,1777.44,Clothes
+2026-07-25,Groceries,9313.91,Vegetables
+2026-01-08,Bills,5882.95,Mobile
+2026-04-30,Food,3851.41,Breakfast
+2025-11-25,Shopping,9174.95,Gift
+2025-04-15,Investment,1567.18,Mutual Fund
+2026-02-09,Bills,7597.92,Gas
+2025-11-03,Food,5302.34,Breakfast
+2025-04-14,Bills,9689.84,Gas
+2025-09-22,Entertainment,6046.57,Concert
+2025-08-09,Healthcare,7289.84,Doctor
+2026-01-08,Travel,7434.19,Train
+2026-04-26,Food,1721.36,Snacks
+2026-04-17,Travel,4814.19,Metro
+2026-06-09,Food,1070.67,Breakfast
+2026-05-10,Education,5661.01,Exam Fee
+2026-05-19,Investment,6916.61,SIP
+2026-01-22,Education,9294.42,Books
+2025-11-02,Rent,7151.84,House Rent
+2026-05-30,Bills,3827.9,Mobile
+2026-01-08,Education,7432.88,Exam Fee
+2026-03-25,Food,4910.39,Snacks
+2025-03-21,Food,5476.49,Dinner
+2025-04-09,Shopping,824.27,Accessories
+2025-09-19,Education,6370.24,Books
+2025-03-09,Healthcare,6759.75,Pharmacy
+2026-06-17,Shopping,8988.22,Electronics
+2025-08-11,Investment,3691.54,Savings
+2025-12-04,Investment,1774.73,Savings
+2026-01-02,Groceries,8970.38,Fruits
+2026-05-10,Travel,8370.58,Bus
+2025-10-25,Healthcare,5134.11,Medicine
+2026-06-27,Groceries,533.55,Vegetables
+2025-06-27,Shopping,7297.75,Clothes
+2025-11-02,Groceries,2951.24,Supermarket
+2026-01-27,Entertainment,6647.02,Concert
+2025-07-13,Entertainment,106.32,OTT
+2025-06-18,Groceries,7516.87,Fruits
+2025-06-06,Investment,8431.01,Stocks
+2026-01-11,Healthcare,6530.68,Lab Test
+2025-08-21,Investment,3694.91,Stocks
+2025-03-11,Entertainment,5731.11,Movie
+2025-09-24,Entertainment,5432.96,OTT
+2025-03-17,Groceries,1880.41,Milk
+2025-07-14,Education,9769.93,Books
+2026-06-12,Groceries,3279.28,Vegetables
+2026-03-07,Education,9362.41,Books
+2026-05-27,Shopping,9562.33,Electronics
+2026-03-04,Entertainment,3805.05,OTT
+2025-08-31,Groceries,8326.5,Fruits
+2025-01-26,Groceries,6231.58,Milk
+2026-01-05,Shopping,9002.39,Accessories
+2025-08-30,Rent,2704.11,House Rent
+2025-01-06,Education,5694.28,Books
+2025-10-09,Shopping,2591.26,Gift
+2025-07-22,Education,5274.93,Books
+2025-04-12,Healthcare,2582.07,Medicine
+2025-06-05,Entertainment,3582.41,OTT
+2026-04-12,Travel,9796.43,Metro
+2025-07-15,Shopping,9046.65,Electronics
+2026-02-17,Shopping,1790.94,Accessories
+2025-05-23,Shopping,7896.77,Accessories
+2025-08-31,Bills,1814.01,Water
+2026-06-03,Food,8048.04,Dinner
+2026-02-07,Groceries,6796.18,Supermarket
+2026-06-09,Rent,5475.9,House Rent
+2026-07-03,Entertainment,4478.37,Movie
+2025-01-16,Shopping,5249.33,Gift
+2025-08-31,Entertainment,3635.21,OTT
+2026-02-01,Food,5300.77,Dinner
+2025-07-29,Healthcare,7427.83,Pharmacy
+2026-01-11,Investment,3195.21,SIP
+2025-05-16,Entertainment,6783.32,Games
+2025-09-01,Healthcare,9792.48,Lab Test
+2026-02-27,Healthcare,7575.7,Pharmacy
+2025-02-19,Food,4069.26,Lunch
+2025-03-26,Healthcare,7812.21,Pharmacy
+2025-01-07,Food,3020.28,Snacks
+2026-05-11,Rent,7870.18,House Rent
+2026-02-05,Food,7146.77,Snacks
+2025-08-12,Groceries,4844.52,Vegetables
+2025-04-30,Education,6828.81,Exam Fee
+2025-09-29,Investment,8934.22,Mutual Fund
+2025-07-29,Groceries,3381.86,Milk
+2026-07-23,Food,8304.64,Breakfast
+2026-05-12,Healthcare,7769.88,Doctor
+2025-09-08,Education,8045.27,Course
+2025-05-28,Education,3307.43,Stationery
+2026-02-09,Healthcare,7767.79,Pharmacy
+2026-07-06,Investment,3322.72,Savings
+2026-02-03,Healthcare,5032.82,Medicine
+2025-08-09,Education,5542.05,Course
+2026-07-06,Shopping,9301.59,Accessories
+2025-10-23,Investment,7848.05,Stocks
+2025-05-13,Bills,586.7,Internet
+2025-11-23,Groceries,8387.2,Vegetables
+2025-08-30,Groceries,7642.38,Milk
+2025-12-17,Groceries,7865.32,Supermarket
+2026-03-01,Healthcare,7824.99,Doctor
+2025-01-13,Healthcare,9338.6,Pharmacy
+2025-04-20,Travel,5330.17,Fuel
+2025-11-26,Rent,566.92,House Rent
+2025-06-11,Shopping,1436.12,Gift
+2025-12-28,Groceries,7475.77,Vegetables
+2026-03-24,Rent,8264.1,House Rent
+2026-04-26,Healthcare,874.94,Medicine
+2025-07-03,Investment,2990.77,SIP
+2025-07-14,Healthcare,7276.43,Doctor
+2025-03-24,Travel,1867.38,Taxi
+2025-12-24,Shopping,4408.63,Gift
+2025-10-03,Investment,6811.48,Stocks
+2025-06-19,Investment,9581.09,SIP
+2026-02-14,Entertainment,4095.85,OTT
+2025-05-12,Shopping,4526.89,Shoes
+2025-06-16,Rent,4168.12,House Rent
+2026-03-25,Rent,4460.23,House Rent
+2026-01-01,Travel,4488.38,Bus
+2025-01-18,Rent,8707.36,House Rent
+2025-09-22,Investment,8059.44,SIP
+2025-04-12,Bills,7084.04,Electricity
+2025-12-13,Shopping,4285.0,Clothes
+2025-02-20,Food,8228.92,Dinner
+2025-10-02,Travel,559.69,Bus
+2026-04-02,Travel,5599.28,Taxi
+2026-05-17,Travel,4982.05,Metro
+2026-04-02,Rent,1589.74,House Rent
+2025-04-15,Groceries,8407.86,Fruits
+2026-01-24,Shopping,4751.76,Accessories
+2025-11-21,Groceries,1760.72,Milk
+2026-05-04,Groceries,2591.92,Milk
+2026-06-29,Education,9226.11,Course
+2026-03-29,Bills,8178.57,Electricity
+2025-01-10,Travel,566.41,Fuel
+2025-12-20,Investment,2869.15,Mutual Fund
+2025-11-10,Groceries,6047.96,Vegetables
+2025-03-06,Groceries,8334.99,Fruits
+2025-07-18,Education,6373.12,Books
+2025-05-24,Investment,4685.46,Stocks
+2025-10-11,Rent,1055.16,House Rent
+2026-03-13,Education,7463.0,Books
+2025-02-10,Healthcare,5520.94,Pharmacy
+2025-11-01,Education,5020.33,Books
+2026-02-22,Bills,7050.03,Water
+2025-01-10,Investment,7483.66,Mutual Fund
+2025-04-12,Rent,7476.57,House Rent
+2025-11-04,Travel,7421.06,Metro
+2026-04-06,Entertainment,1289.61,Movie
+2025-03-17,Investment,5320.01,SIP
+2026-07-03,Travel,3573.4,Bus
+2026-03-29,Travel,5600.55,Taxi
+2025-05-06,Entertainment,6428.18,OTT
+2025-07-28,Entertainment,3625.86,Games
+2026-05-17,Groceries,2989.52,Vegetables
+2026-05-27,Travel,2758.15,Taxi
+2025-12-07,Investment,516.17,Savings
+2026-07-20,Rent,7159.05,House Rent
+2026-06-14,Bills,5228.88,Electricity
+2025-01-12,Bills,645.25,Electricity
+2025-12-04,Rent,6810.54,House Rent
+2025-01-14,Shopping,6714.82,Gift
+2025-08-28,Travel,9198.96,Taxi
+2025-03-06,Groceries,4437.43,Milk
+2026-05-18,Rent,2239.96,House Rent
+2025-06-06,Education,7883.59,Exam Fee
+2026-01-26,Shopping,8860.99,Gift
+2025-05-20,Education,6209.96,Books
+2025-12-12,Food,4914.82,Breakfast
+2025-04-25,Shopping,7218.86,Accessories
+2025-02-06,Rent,4615.53,House Rent
+2025-04-24,Entertainment,5948.32,Concert
+2025-09-18,Healthcare,2791.88,Pharmacy
+2025-09-26,Entertainment,4699.04,OTT
+2025-12-29,Bills,9647.05,Water
+2025-09-04,Bills,1813.9,Electricity
